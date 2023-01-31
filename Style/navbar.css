@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    background-color:black;
+    color:white;
+    justify-content: center;
+   justify-content:space-around
+}
+#navbar div{
+
+    display: flex;
+    background-color:black;
+    color:white;
+    justify-content: center;
+    justify-content:space-around;
+    gap: 50px;
+
+} 
+
+#navbar div a{
+    text-decoration: none;
+    color:white;
+}
+
